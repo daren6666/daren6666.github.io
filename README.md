@@ -1,4 +1,4 @@
-# Jia Han Lin | 林家翰 
+# Jia Han Lin | 林佳翰 
 ### MSc Student @ University of Liverpool 🇬🇧
 
 Welcome to my portfolio! I am currently pursuing my Master's degree at the **University of Liverpool**, specializing in Data Science and Machine Learning.
